@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\luis\desktop\bin\datastructures-spring2019\programming exam challenges\9mergesorted\9mergesorted\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\luis\desktop\bin\datastructures-spring2019\programming exam challenges\9mergesorted\9mergesorted\main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  9mergeSorted.vcxproj -> C:\Users\Luis\Desktop\bin\DataStructures-Spring2019\programming exam challenges\9mergeSorted\Debug\9mergeSorted.exe

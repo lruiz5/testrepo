@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\luis\desktop\bin\datastructures-spring2019\challenges\1nthsmallest\1nthsmallest\main.cpp(12): warning C4018: '>': signed/unsigned mismatch
+  1NthSmallest.vcxproj -> C:\Users\Luis\Desktop\bin\DataStructures-Spring2019\challenges\1NthSmallest\Debug\1NthSmallest.exe
